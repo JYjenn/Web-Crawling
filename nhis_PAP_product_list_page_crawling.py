@@ -2,7 +2,7 @@
 import pandas as pd
 import datetime
 from time import sleep
-from Web_crawling import *
+from utils import *
 
 
 # 업소별 제품 개수 확인
