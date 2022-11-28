@@ -1,4 +1,3 @@
-# 업소별 양압기 등록 개수 현황
 import pandas as pd
 import datetime
 from time import sleep
